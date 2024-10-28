@@ -8,7 +8,7 @@
 Using the GitHub API, I retrieved user profiles and repositories by iterating through API pages, saving each user's relevant details to `users.csv` and repositories to `repositories.csv`.
 
 ### Key Findings
-- Tokyo GitHub users favor certain companies and technologies, with a notable trend in language popularity.
+- Tokyo GitHub users favor certain companies and technologies, with a notable trend in language popularity like JavaScript.
 - Certain types of repositories tend to attract higher star ratings.
 
 ### Recommendations
