@@ -4,7 +4,7 @@
 - The analysis revealed that most Tokyo-based GitHub users work in similar fields, with certain languages being significantly more popular.
 - Developers in Tokyo could improve visibility by focusing on more popular languages and contributing to public repositories.
 
-### How I Scraped the Data
+### Scrapping Data Process
 Using the GitHub API, I retrieved user profiles and repositories by iterating through API pages, saving each user's relevant details to `users.csv` and repositories to `repositories.csv`.
 
 ### Key Findings
